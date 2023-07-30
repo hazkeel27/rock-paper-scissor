@@ -1,47 +1,45 @@
-# Module 03 Mini-Project: Rock, Paper, Scissors
+# rock-paper-scissor
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-In this activity, you will work with a group to build a game using only JavaScript.
+## Description
 
-## Instructions
+Rock, paper, and scissors game played with a computer.
 
-The completed application should meet the following criteria:
+## Table of Contents
 
-* As a user, I want to play Rock, Paper, Scissors against an automated opponent.
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
 
-* As a user, I can enter R, P, or S to signify my choice of rock, paper, or scissors.
+## <a name="installation"></a>Installation
 
-* As a user, I expect the computer to choose R, P, or S in return.
+To install necessary dependencies, run the following command:
 
-* As a user, I want the option to play again whether I win or lose.
+Nothing to install, simply click on the deployed link.
 
-* As a user, I want to see my total wins, ties, and losses after each round.
+## <a name="usage"></a>Usage
 
-### Specifications
+The game is written in JavaScript
 
-* Must use the `alert()`, `confirm()`, and `prompt()` methods to collect user input and display information to the user.
+## <a name="contributing"></a>Contribution
 
-* The computer's selection must be random to ensure a fair game.
+The user can possibly replace prompts with modals.
 
-## 💡 Notes
+## <a name="tests"></a>Tests
 
-Refer to the documentation:
+To run tests, run the following command:
 
-* [MDN Web Docs on window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+click on the deployed link. https://hazkeel27.github.io/rock-paper-scissor/
 
-* [MDN Web Docs on window.confirm()](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+## <a name="license"></a>License
 
-* [MDN Web Docs on window.prompt()](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+This project is licensed under The MIT License. Here is the link to the license to access more information for your reference: https://opensource.org/licenses/MIT
 
-* [MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+## <a name="questions"></a>Questions
 
-## 🏆 Bonus
+If you have further questions, you are welcome to reach me through my email at hazkeel27@gmail.com.
 
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
-
-* How can you customize the appearance of the `alert()`, `confirm()`, and `prompt()` dialog boxes?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+You can view my projects by going through my GitHub profile at https://github.com/hazkeel27.
